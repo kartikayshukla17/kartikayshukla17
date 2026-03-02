@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, Nest.JS**
 
-- 👯 I’m looking to collaborate on [Visionary.ai](https://visionary-ai-amber.vercel.app/)
+- 👯 I’m looking to collaborate on [DecisionOS](https://visionary-ai-amber.vercel.app/)
 
 - 🤝 I’m looking for help with [FirmCommand](https://firmcommand-frontend.onrender.com/)
 
