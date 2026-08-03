@@ -28,7 +28,7 @@
 ```typescript
 const kartikay = {
   role: "Full-Stack Developer @ Verchool Platforms",
-  location: "India 🇮🇳",
+  location: "India ",
   education: "B.Tech IT — JIIT Noida",
   building: ["Notarize Doctor", "OffClock"],
   focus: ["React", "Node.js", "TypeScript", "Next.js", "PostgreSQL"],
@@ -44,7 +44,7 @@ Full-stack engineer who ships **production web apps end-to-end** — schema desi
 | 🔬 **[Notarize Doctor](https://github.com/kartikayshukla17/notarize-doctor)** | OSS CLI + dashboard — catches Electron Mac signing & notarization issues before CI fails |
 | 🏠 **[OffClock](https://github.com/kartikayshukla17/offclock)** | Shareable WFH status page so your household knows when you're in a meeting or off the clock |
 
-> Update repo links above once public. Remove broken/old project links.
+
 
 ---
 
