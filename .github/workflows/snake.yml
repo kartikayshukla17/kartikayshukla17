@@ -27,6 +27,6 @@ jobs:
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_dir: dist
-          branch: output
+          build_dir: dist
+          target_branch: output
           commit_message: "update snake animation"
