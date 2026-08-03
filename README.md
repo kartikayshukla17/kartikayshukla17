@@ -1,26 +1,153 @@
-<h1 align="center">Hi 👋, I'm Kartikay Shukla</h1>
-<h3 align="center">A passionate JS developer from India</h3>
+<!-- Copy everything below into your profile repo README.md -->
+<!-- Repo must be named: kartikayshukla17/kartikayshukla17 -->
 
-- 🔭 I’m currently working on [HealthCare](https://github.com/kartikayshukla17/HeathCare)
+<div align="center">
 
-- 🌱 I’m currently learning **PostgreSQL, Nest.JS**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Kartikay%20Shukla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20in%20Public&descAlignY=55&descSize=16"/>
 
-- 👯 I’m looking to collaborate on [DecisionOS](https://visionary-ai-amber.vercel.app/)
+<br/>
 
-- 🤝 I’m looking for help with [FirmCommand](https://firmcommand-frontend.onrender.com/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=React+%C2%B7+Node.js+%C2%B7+TypeScript;Electron+release+pipelines;Next.js+%C2%B7+PostgreSQL+%C2%B7+Firebase;Building+Notarize+Doctor+%26+OffClock" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tau-plum-61.vercel.app/](https://portfolio-tau-plum-61.vercel.app/)
+<br/><br/>
 
-- 💬 Ask me about **react, express.js, node.js, swift,mongoDB**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikay-shukla-27357a243)
+[![X](https://x.com/Kartikay0417)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tau-plum-61.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikayshukla17@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-764ba2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fAv7xCDotJvPPv_I5zPwgkLhHolmR47s/view?usp=sharing)
 
-- 📫 How to reach me **KARTIKAYSHUKLA17@GMAIL.COM**
+<img src="https://komarev.com/ghpvc/?username=kartikayshukla17&label=Profile%20views&color=667eea&style=flat-square" alt="Profile views"/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fAv7xCDotJvPPv_I5zPwgkLhHolmR47s/view?usp=sharing](https://drive.google.com/file/d/1fAv7xCDotJvPPv_I5zPwgkLhHolmR47s/view?usp=sharing)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/kartikay-shukla-27357a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/kartikay-shukla-27357a243" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 👨‍💻 About
+
+```typescript
+const kartikay = {
+  role: "Full-Stack Developer @ Verchool Platforms",
+  location: "India 🇮🇳",
+  education: "B.Tech IT — JIIT Noida",
+  building: ["Notarize Doctor", "OffClock"],
+  focus: ["React", "Node.js", "TypeScript", "Next.js", "PostgreSQL"],
+  askMeAbout: ["Electron release pipelines", "RBAC", "production web apps"],
+  funFact: "I ship side projects in public alongside full-time consulting work"
+};
+```
+
+Full-stack engineer who ships **production web apps end-to-end** — schema design, auth, APIs, and deployment. Currently building two products in public:
+
+| Project | What it does |
+|---------|--------------|
+| 🔬 **[Notarize Doctor](https://github.com/kartikayshukla17/notarize-doctor)** | OSS CLI + dashboard — catches Electron Mac signing & notarization issues before CI fails |
+| 🏠 **[OffClock](https://github.com/kartikayshukla17/offclock)** | Shareable WFH status page so your household knows when you're in a meeting or off the clock |
+
+> Update repo links above once public. Remove broken/old project links.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kartikayshukla17/notarize-doctor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartikayshukla17&repo=notarize-doctor&theme=tokyonight&hide_border=true&border_radius=12&title_color=667eea&icon_color=764ba2" alt="Notarize Doctor"/>
+</a>
+<a href="https://github.com/kartikayshukla17/offclock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartikayshukla17&repo=offclock&theme=tokyonight&hide_border=true&border_radius=12&title_color=667eea&icon_color=764ba2" alt="OffClock"/>
+</a>
+
+</div>
+
+<br/>
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **Notarize Doctor** | TypeScript · Node · Next.js | 🚧 Building in public |
+| **OffClock** | Next.js · Prisma · Firebase · Stripe | 🚧 Building in public |
+| **[Portfolio](https://portfolio-tau-plum-61.vercel.app/)** | React · Vercel | ✅ Live |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikayshukla17&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikayshukla17&theme=tokyonight&hide_border=true&border_radius=12&ring=667eea&fire=764ba2&currStreakLabel=667eea" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikayshukla17&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=667eea&langs_count=8" height="165"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,redux&perline=8" />
+
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,firebase,python&perline=8" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux&perline=8" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📚 Currently learning</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</details>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/kartikay--shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikay-shukla-27357a243)
+[![Gmail](https://img.shields.io/badge/kartikayshukla17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikayshukla17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-tau-plum-61.vercel.app/)
+
+**Open to:** Electron release pipeline consulting · Full-stack contract work · OSS collabs
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikayshukla17/kartikayshukla17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikayshukla17/kartikayshukla17/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kartikayshukla17/kartikayshukla17/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+
+**Thanks for stopping by — star ⭐ a repo if something's useful**
+
+*"Ship in public. Fix CI before it fixes your weekend."*
+
+</div>
