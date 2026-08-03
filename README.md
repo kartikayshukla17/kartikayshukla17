@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikay Shukla</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate JS developer from India</h3>
 
 - 🔭 I’m currently working on [HealthCare](https://github.com/kartikayshukla17/HeathCare)
 
