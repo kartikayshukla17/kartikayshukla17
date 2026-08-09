@@ -40,7 +40,7 @@
 ```typescript
 const kartikay = {
   role: "Full-Stack Developer @ Verchool Platforms",
-  location: "India 🇮🇳",
+  location: "India",
   education: "B.Tech IT — JIIT Noida",
   building: ["Notarize Doctor", "OffClock"],
   focus: ["React", "Node.js", "TypeScript", "Next.js", "PostgreSQL"],
